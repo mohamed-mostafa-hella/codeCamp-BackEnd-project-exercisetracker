@@ -37,8 +37,7 @@
 
 ## Note:
 
-- .env file contain => [PORT , MONGODB_URL] 
-
+- like [sample.env] => .env file contain [PORT , MONGODB_URL] 
 
 ## Contact :
  - E_mail : mohamedmostafa6198@gmail.com
